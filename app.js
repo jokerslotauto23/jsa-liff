@@ -55,7 +55,7 @@ const data = {
     color: {
       title: "#FDF9F8", //สีหัวข้อ
       message: "#ffb70a", //สีข้อความ
-      background: "#a12fce", //พื้นหลัง
+      background: "#FFC547", //พื้นหลัง
       button: "#ed9f09", //สีปุ่ม
     },
     size: 'giga' //มีขนาด giga, mega, kilo, micro, nano
