@@ -49,7 +49,7 @@ const data = {
   link: {
     register: "https://betflix99th.mewallet.cc/register", //ลิงก์ปุ่มสมัคร
     shared: `https://liff.line.me/${LIFF_ID}?LINE=true`, //ลิงก์ปุ่มแชร์
-    image: "https://lin.ee/Y1hB1cc", //ลิงก์รูปภาพ
+    image: "https://lin.ee/jWFZrvt", //ลิงก์รูปภาพ
   },
   settings: {
     color: {
