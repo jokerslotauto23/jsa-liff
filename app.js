@@ -14,7 +14,7 @@ const LIFF_ID = "1656628995-LYlOBmzB";
 // 
 
 const data = {
-  text: "ทำไรอยู่", //ข้อความตอนแชร์
+  text: "พี่หายไปไหนอ่ะ", //ข้อความตอนแชร์
   content: [
     // Card 1
     {
